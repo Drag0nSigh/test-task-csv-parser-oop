@@ -1,0 +1,80 @@
+{
+    "Marketing": {
+        "employees": [
+            {
+                "name": "Alice Johnson",
+                "hours_worked": 160,
+                "hourly_rate": 50,
+                "payout": 8000
+            },
+            {
+                "name": "Henry Martin",
+                "hours_worked": 150,
+                "hourly_rate": 35,
+                "payout": 5250
+            }
+        ],
+        "total_hours": 310,
+        "total_payout": 13250
+    },
+    "Design": {
+        "employees": [
+            {
+                "name": "Bob Smith",
+                "hours_worked": 150,
+                "hourly_rate": 40,
+                "payout": 6000
+            },
+            {
+                "name": "Carol Williams",
+                "hours_worked": 170,
+                "hourly_rate": 60,
+                "payout": 10200
+            }
+        ],
+        "total_hours": 320,
+        "total_payout": 16200
+    },
+    "HR": {
+        "employees": [
+            {
+                "name": "Grace Lee",
+                "hours_worked": 160,
+                "hourly_rate": 45,
+                "payout": 7200
+            },
+            {
+                "name": "Ivy Clark",
+                "hours_worked": 158,
+                "hourly_rate": 38,
+                "payout": 6004
+            },
+            {
+                "name": "Liam Harris",
+                "hours_worked": 155,
+                "hourly_rate": 42,
+                "payout": 6510
+            }
+        ],
+        "total_hours": 473,
+        "total_payout": 19714
+    },
+    "Sales": {
+        "employees": [
+            {
+                "name": "Karen White",
+                "hours_worked": 165,
+                "hourly_rate": 50,
+                "payout": 8250
+            },
+            {
+                "name": "Mia Young",
+                "hours_worked": 160,
+                "hourly_rate": 37,
+                "payout": 5920
+            }
+        ],
+        "total_hours": 325,
+        "total_payout": 14170
+    }
+}

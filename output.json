@@ -1,0 +1,32 @@
+{
+    "HR": {
+        "employees": [
+            {
+                "name": "Grace Lee",
+                "hours_worked": 160,
+                "hourly_rate": 45,
+                "payout": 7200
+            },
+            {
+                "name": "Alice Johnson",
+                "hours_worked": 170,
+                "hourly_rate": 50,
+                "payout": 8500
+            }
+        ],
+        "total_hours": 330,
+        "total_payout": 15700
+    },
+    "Marketing": {
+        "employees": [
+            {
+                "name": "Henry Martin",
+                "hours_worked": 150,
+                "hourly_rate": 35,
+                "payout": 5250
+            }
+        ],
+        "total_hours": 150,
+        "total_payout": 5250
+    }
+}
